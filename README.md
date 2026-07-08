@@ -179,3 +179,4 @@ Consulte os artigos:
 
 - [Logs](./articles/logs.md)
 - [pacman](./articles/pacman.md)
+- [swap](./articles/swap.md)
