@@ -102,6 +102,7 @@ Instale as extensões:
 
 Siga os artigos:
 
+- [apparmor](./articles/apparmor.md)
 - [nftables](./articles/nftables.md)
 - [zsh](./articles/zsh.md)
 
