@@ -32,6 +32,7 @@ Também incentivo a realizar doações para projetos open source, crie o hábito
   - [Pós Instalação](#pós-instalação)
     - [Pacotes](#pacotes)
     - [Configuração](#configuração)
+  - [Administração](#administração)
 
 ## Arch Linux
 
@@ -171,3 +172,9 @@ Detecte os sensores de módulos do _kernel_.
 ```bash
 sudo sensors-detect --auto
 ```
+
+### Administração
+
+Consulte os artigos:
+
+- [Logs](./articles/logs.md)
