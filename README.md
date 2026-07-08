@@ -102,6 +102,7 @@ Instale as extensões:
 
 Siga os artigos:
 
+- [nftables](./articles/nftables.md)
 - [zsh](./articles/zsh.md)
 
 Defina o `nano` como editor principal em `~/.zshrc`.
