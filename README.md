@@ -178,3 +178,4 @@ sudo sensors-detect --auto
 Consulte os artigos:
 
 - [Logs](./articles/logs.md)
+- [pacman](./articles/pacman.md)
