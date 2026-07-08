@@ -100,6 +100,10 @@ Instale as extensões:
 - [Cliboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator)
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu)
 
+Siga os artigos:
+
+- [zsh](./articles/zsh.md)
+
 Defina o `nano` como editor principal em `~/.zshrc`.
 
 ```plaintext
